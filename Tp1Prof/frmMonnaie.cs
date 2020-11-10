@@ -16,5 +16,12 @@ namespace Tp1Prof
         {
             InitializeComponent();
         }
+
+        //  Mb2 : ajout 1er commentaire
+
+        private void frmMonnaie_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -51,6 +51,7 @@
             this.Controls.Add(this.Label1);
             this.Name = "frmMonnaie";
             this.Text = "frmMonnaie";
+            this.Load += new System.EventHandler(this.frmMonnaie_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
