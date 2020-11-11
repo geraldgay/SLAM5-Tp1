@@ -18,6 +18,7 @@ namespace Tp1Prof
         }
 
         //  Mb2 : ajout 1er commentaire
+        // Mb2 : Ajout branche supp MonnaieCPlt
 
         private void frmMonnaie_Load(object sender, EventArgs e)
         {
